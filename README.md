@@ -125,7 +125,7 @@ banco.sql
 
 ## ▶ Como Executar
 
-## Ambiente Local
+### Ambiente Local
 
 1. Instale o **XAMPP**.
 
@@ -148,7 +148,7 @@ http://localhost/Projeto
 
 ---
 
-## Ambiente Web
+### Ambiente Web
 
 Após configurar o banco de dados na InfinityFree:
 
