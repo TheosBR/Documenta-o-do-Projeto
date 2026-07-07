@@ -58,19 +58,19 @@ Essa etapa permitiu que o projeto pudesse ser acessado pela internet por diferen
 
 ## 🛠 Tecnologias Utilizadas
 
-## Desenvolvimento
+### Desenvolvimento
 - PHP 8
 - HTML5
 - CSS3
 - MySQL
 - Visual Studio Code
 
-## Ambiente Local
+### Ambiente Local
 - XAAMP
 - Apache
 - phpMyadmin
 
-## Hospedagem
+### Hospedagem
 - InfinitiFree
 - MySQL Server (InfinitiFree)
 
@@ -147,7 +147,6 @@ http://localhost/Projeto
 ```
 
 ---
-
 ### Ambiente Web
 
 Após configurar o banco de dados na InfinityFree:
