@@ -41,6 +41,7 @@ O sistema gera automaticamente a classificação dos times com base nas estatís
 ---
 
 ## 🛠 Tecnologias Utilizadas
+
 ## Desenvolvimento
 - PHP 8
 - HTML5
@@ -48,10 +49,12 @@ O sistema gera automaticamente a classificação dos times com base nas estatís
 - MySQL
 - XAMPP
 - Visual Studio Code
+
 ## Ambiente Local
 - XAAMP
 - Apache
 - phpMyadmin
+
 ## Hospedagem
 - InfinitiFree
 - MySQL Server (InfinitiFree)
