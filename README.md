@@ -1,8 +1,10 @@
 # ⚽ Gerador de Torneios de Futebol
 
-Sistema web desenvolvido em **PHP** e **MySQL** para gerenciamento de torneios de futebol.
+Sistema web desenvolvido em PHP e MySQL para gerenciamento de torneios de futebol.
 
 O projeto permite que usuários criem, editem, salvem e gerenciem campeonatos de forma simples e organizada, calculando automaticamente a classificação das equipes.
+
+O sistema foi desenvolvido inicialmente em ambiente local utilizando o XAMPP e, após sua conclusão, foi publicado na internet utilizando a hospedagem gratuita InfinityFree, permitindo o acesso ao sistema por meio de computadores e dispositivos móveis.
 
 ---
 
@@ -40,6 +42,20 @@ O sistema gera automaticamente a classificação dos times com base nas estatís
 
 ---
 
+## 🌐 Hospedagem
+
+Após o desenvolvimento e os testes em ambiente local, o sistema foi publicado na plataforma InfinityFree, utilizando um banco de dados MySQL hospedado na própria plataforma.
+
+Durante a implantação foram realizadas as seguintes adaptações:
+- Configuração da conexão com o banco de dados da InfinityFree;
+- Importação do banco de dados para o phpMyAdmin da hospedagem;
+- Ajuste das credenciais de acesso ao MySQL;
+- Testes de funcionamento do sistema em ambiente web.
+
+Essa etapa permitiu que o projeto pudesse ser acessado pela internet por diferentes dispositivos, como computadores e smartphones.
+
+---
+
 ## 🛠 Tecnologias Utilizadas
 
 ## Desenvolvimento
@@ -47,7 +63,6 @@ O sistema gera automaticamente a classificação dos times com base nas estatís
 - HTML5
 - CSS3
 - MySQL
-- XAMPP
 - Visual Studio Code
 
 ## Ambiente Local
@@ -110,6 +125,8 @@ banco.sql
 
 ## ▶ Como Executar
 
+## Ambiente Local
+
 1. Instale o **XAMPP**.
 
 2. Inicie:
@@ -128,6 +145,17 @@ C:\xampp\htdocs\
 ```
 http://localhost/Projeto
 ```
+
+---
+
+## Ambiente Web
+
+Após configurar o banco de dados na InfinityFree:
+
+1. Faça upload dos arquivos do projeto.
+2. Configure o arquivo conexao.php.
+3. Importe o banco de dados.
+4. Acesse o endereço disponibilizado pela InfinityFree.
 
 ---
 
