@@ -121,8 +121,6 @@ campeonato
 banco.sql
 ```
 
----
-
 ## ▶ Como Executar
 
 ### Ambiente Local
